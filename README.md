@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Bienvenido a mi GitHub
 
-<!--
-**ciriarte-dev/ciriarte-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Carlos Eduardo Iriarte Rodríguez
+🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollo de software | 🌎 Bolivia 🇧🇴
 
-Here are some ideas to get you started:
+Este espacio reúne mis **proyectos académicos**, prácticas y ejercicios enfocados en programación, desarrollo de software y tecnología.  
+Mi objetivo es **aprender, mejorar constantemente y compartir conocimiento** a través de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- Estudiante de Ingeniería de Sistemas  
+- Interés en desarrollo de software y tecnología  
+- En constante aprendizaje y formación técnica  
+- Enfoque en buenas prácticas y lógica de programación  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+**Lenguajes**
+- Python
+- Java
+- JavaScript
+- SQL
+
+**Tecnologías / Herramientas**
+- Git & GitHub
+- HTML5 / CSS3
+- MySQL
+- Visual Studio Code
+- Kiro
+
+
+---
+
+## 📂 Proyectos
+Aquí encontrarás:
+- Proyectos universitarios  
+- Ejercicios prácticos  
+
+---
+
+## 📫 Contacto
+- 📧 Email: carlos.iriarte.dev@gmail.com  
+- 📱 WhatsApp: https://wa.me/59167507938  
+
+---
+
+⭐ Gracias por visitar mi perfil  
