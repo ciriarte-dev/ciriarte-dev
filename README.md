@@ -1,62 +1,98 @@
-# 👋 Bienvenido a mi GitHub
+<div align="center">
 
-## Carlos Eduardo Iriarte Rodríguez
-🎓 Ingeniería de Sistemas | 💻 Desarrollo de software | 🌎 Bolivia 🇧🇴
+# 👋 Hi, I'm Carlos Eduardo Iriarte Rodríguez
 
-Este espacio reúne mis **proyectos académicos**, prácticas y ejercicios enfocados en programación, desarrollo de software y tecnología.  
-Mi objetivo es **aprender, mejorar constantemente y compartir conocimiento** a través del código.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+student;Aspiring+Full+Stack+Engineer;Cochabamba%2C+Bolivia" alt="Computer Science student · Aspiring Full Stack Engineer · Cochabamba, Bolivia" />
 
----
+🎓 Computer Science student &nbsp;·&nbsp; 💻 Aspiring Full Stack Engineer &nbsp;·&nbsp; 📍 Cochabamba, Bolivia 🇧🇴
 
-## 🚀 Sobre mí
-- Estudiante de Ingeniería de Sistemas  
-- Interés en desarrollo de software y tecnología  
-- En constante aprendizaje y formación técnica  
-- Enfoque en buenas prácticas y lógica de programación  
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 About me
 
-### 🔹 Lenguajes
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+I enjoy building software end to end, from the database to the user interface. This profile is where I keep my personal projects and the things I build while I learn.
 
-### 🔹 Tecnologías / Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🔹 Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kiro-000000?style=for-the-badge"/>
-</p>
+- 💻 Focused on full stack development: front end, back end and databases
+- 🌱 Always learning and looking for ways to improve with every project
+- ✅ I care about clean code, good practices and solid programming logic
+- 🤝 My goal is to keep growing and share what I learn through code
+- 💼 Open to internships and junior developer opportunities
+- 🗣️ Languages: Spanish (native) · English (advanced)
 
 ---
 
-## 📂 Proyectos
-Aquí encontrarás:
-- Proyectos universitarios  
-- Ejercicios prácticos  
-- Implementaciones de conceptos aprendidos  
+## 🎓 Education
+
+**B.Sc. in Systems Engineering (Computer Science)**<br>
+Universidad Católica Boliviana "San Pablo" · Cochabamba, Bolivia<br>
+4th year · Expected graduation: 2027
 
 ---
 
-## 📫 Contacto
-📧 **Email:** carlos.iriarte.dev@gmail.com  
-📱 **WhatsApp:** https://wa.me/59167507938  
+## 🤝 Soft skills
+
+- **Product Owner** in most of my university development teams: I organize the backlog, set priorities and keep the team aligned
+- **Communication:** outgoing and comfortable talking to teammates, professors and stakeholders
+- **Teamwork:** I connect easily with new people and help the team work well together
+- **Agile mindset:** used to working in sprints with clear goals and deliverables
 
 ---
 
-⭐ Gracias por visitar mi perfil
+## 🛠️ Tech stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,dotnet&theme=dark" height="64" alt="TypeScript, JavaScript, Python, Java, C++, .NET" />
+
+### Frameworks & libraries
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,jest,html,css&theme=dark" height="64" alt="React, Angular, Node.js, Jest, HTML, CSS" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="64" alt="MySQL, MongoDB" />
+
+SQL · MySQL · MySQL Workbench · MongoDB
+
+### IDEs & tools
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,webstorm,pycharm,rider,androidstudio,git,github&theme=dark" height="64" alt="Visual Studio, VS Code, IntelliJ IDEA, WebStorm, PyCharm, Rider, Android Studio, Git, GitHub" />
+
+Visual Studio · VS Code · IntelliJ IDEA · WebStorm · PyCharm · Rider · Android Studio · Kiro · Git · GitHub
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ciriarte-dev&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciriarte-dev&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:carlos.iriarte.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-carlos.iriarte.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/59167507938">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B591%2067507938-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<br>
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
