@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos Eduardo Iriarte Rodríguez
+# Carlos Eduardo Iriarte Rodriguez
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+Student;Aspiring+Full+Stack+Engineer;Cochabamba%2C+Bolivia" alt="Computer Science Student · Aspiring Full Stack Engineer · Cochabamba, Bolivia" />
 
