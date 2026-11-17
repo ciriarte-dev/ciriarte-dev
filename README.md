@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Carlos Eduardo Iriarte Rodríguez
+# Carlos Eduardo Iriarte Rodríguez
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+student;Aspiring+Full+Stack+Engineer;Cochabamba%2C+Bolivia" alt="Computer Science student · Aspiring Full Stack Engineer · Cochabamba, Bolivia" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+Student;Aspiring+Full+Stack+Engineer;Cochabamba%2C+Bolivia" alt="Computer Science Student · Aspiring Full Stack Engineer · Cochabamba, Bolivia" />
 
-🎓 Computer Science student &nbsp;·&nbsp; 💻 Aspiring Full Stack Engineer &nbsp;·&nbsp; 📍 Cochabamba, Bolivia 🇧🇴
+🎓 Computer Science Student &nbsp;·&nbsp; 💻 Aspiring Full Stack Engineer &nbsp;·&nbsp; 📍 Cochabamba, Bolivia 🇧🇴
+
+🗣️ Spanish (native) &nbsp;·&nbsp; English (C1)
 
 </div>
 
@@ -19,7 +21,6 @@ I enjoy building software end to end, from the database to the user interface. T
 - ✅ I care about clean code, good practices and solid programming logic
 - 🤝 My goal is to keep growing and share what I learn through code
 - 💼 Open to internships and junior developer opportunities
-- 🗣️ Languages: Spanish (native) · English (advanced)
 
 ---
 
@@ -46,11 +47,15 @@ Universidad Católica Boliviana "San Pablo" · Cochabamba, Bolivia<br>
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,dotnet&theme=dark" height="64" alt="TypeScript, JavaScript, Python, Java, C++, .NET" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,dotnet,html,css&theme=dark" height="64" alt="TypeScript, JavaScript, Python, C++, .NET, HTML, CSS" />
+
+TypeScript · JavaScript · Python · C++ · .NET · HTML · CSS
 
 ### Frameworks & libraries
 
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,jest,html,css&theme=dark" height="64" alt="React, Angular, Node.js, Jest, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,jest&theme=dark" height="64" alt="React, Next.js, Angular, Node.js, NestJS, Jest" />
+
+React · Next.js · Angular · Node.js · NestJS · Jest
 
 ### Databases
 
@@ -68,30 +73,14 @@ Visual Studio · VS Code · IntelliJ IDEA · WebStorm · PyCharm · Rider · And
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ciriarte-dev&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciriarte-dev&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
 
-<a href="mailto:carlos.iriarte.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-carlos.iriarte.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://wa.me/59167507938">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B591%2067507938-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<a href="mailto:carlos.iriarte.dev@gmail.com"><img src="https://img.shields.io/badge/Email-carlos.iriarte.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://wa.me/59167507938"><img src="https://img.shields.io/badge/WhatsApp-%2B591%2067507938-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<br>
-<br>
 
 ⭐ Thanks for visiting my profile!
 
