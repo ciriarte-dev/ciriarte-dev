@@ -65,7 +65,7 @@ SQL · MySQL · MySQL Workbench · MongoDB
 
 ### IDEs & tools
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,webstorm,pycharm,rider,androidstudio,git,github&theme=dark" height="64" alt="Visual Studio, VS Code, IntelliJ IDEA, WebStorm, PyCharm, Rider, Android Studio, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,webstorm,pycharm,rider,androidstudio&theme=dark" height="64" alt="Visual Studio, VS Code, IntelliJ IDEA, WebStorm, PyCharm, Rider, Android Studio" />&nbsp;<img src="assets/kiro.svg" height="64" alt="Kiro" />&nbsp;<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="64" alt="Git, GitHub" />
 
 Visual Studio · VS Code · IntelliJ IDEA · WebStorm · PyCharm · Rider · Android Studio · Kiro · Git · GitHub
 
